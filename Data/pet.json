@@ -1,0 +1,16 @@
+{
+  "id": 86348,
+  "category": {
+    "id": 6448,
+    "name": "Sukuna"
+  },
+  "name": "Ryomen Sukuna",
+  "photoUrls": ["string"],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Sukuna"
+    }
+  ],
+  "status": "available"
+}

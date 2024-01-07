@@ -1,0 +1,16 @@
+{
+  "id": 92341,
+  "category": {
+    "id": 0,
+    "name": "Star"
+  },
+  "name": "Patrick Star",
+  "photoUrls": ["string"],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Nick"
+    }
+  ],
+  "status": "available"
+}
